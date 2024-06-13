@@ -1,10 +1,14 @@
-## Hi there 👋
+### Olá! Prazer eu sou Guilherme Justiça 👋
 
 <!--
 **GuiJustica/guijustica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
+<a href="https://github.com/GuiJustica?tab=repositories">
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guijustica&show_icons=true&theme=transparent">
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
