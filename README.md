@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://github.com/GuiJustica?tab=repositories">
+  <a href="https://github.com/GuiJustica?tab=repositories">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guijustica&show_icons=true&theme=transparent">
 </div>
 <div style="display:inline_block">
@@ -21,6 +21,12 @@ Here are some ideas to get you started:
   <br>
     
 ##
+
+<ul>
+ - <strong>Estudando Ciência da Computação em <a href="https://portal.fei.edu.br">Centro Universitário FEI</a></strong><br>
+ - <strong>Aspirante em ciência de dados</strong><br>
+ - <strong>A vida não é divertida sem cs, futebol e amigos :)</strong>
+</ul>
 
 Mais uma oportunidade de melhorar!
 
