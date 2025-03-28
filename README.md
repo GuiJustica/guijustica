@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 <ul>
  - <strong>Estudando Ciência da Computação em <a href="https://portal.fei.edu.br">Centro Universitário FEI</a></strong><br>
- - <strong>Aspirante em ciência de dados</strong><br>
  - <strong>A vida não é divertida sem cs, futebol e amigos :)</strong>
 </ul>
 
