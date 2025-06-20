@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 <ul>
  - <strong>Estudando Ciência da Computação em <a href="https://portal.fei.edu.br">Centro Universitário FEI</a></strong><br>
- - <strong>A vida não é divertida sem cs, futebol e amigos :)</strong>
+ - <strong>A vida não é divertida sem cs, futebol e amigos :)</strong><br>
+ - <strong>Desenvoldevor dos projetos da <a href="https://github.com/Guilo-s-Community">Guilo's Community</strong>
 </ul>
 
 Mais uma oportunidade de melhorar!
