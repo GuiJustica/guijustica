@@ -20,20 +20,15 @@ Here are some ideas to get you started:
   <img align="left" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="left" alt="raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
   <img  align="left" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-
-
-          
-          
-          
+      
  </div>         
 <br>
     
 ##
 
 <ul>
- - <strong>Estudando Ciência da Computação em <a href="https://portal.fei.edu.br">Centro Universitário FEI</a></strong><br>
+ - <strong>Formado em Ciência da Computação - <a href="https://portal.fei.edu.br">Centro Universitário FEI</a></strong><br>
  - <strong>A vida não é divertida sem cs, futebol e amigos :)</strong><br>
- - <strong>Desenvoldevor dos projetos da <a href="https://github.com/Guilo-s-Community">Guilo's Community</strong>
 </ul>
 
 Mais uma oportunidade de melhorar!
